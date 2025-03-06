@@ -3,7 +3,9 @@
 
 This project is a <b>basic calculator program</b> written in C#. It allows users to perform basic mathematical operations such as addition, 
 subtraction, multiplication, division, modulo, and exponentiation. The program prompts the user to input two numbers and a mathematical operator and then displays the result of the operation. 
-It includes robust input validation to ensure the entered values are valid numbers and that the operator used is one of the allowed operations.
+It includes robust input validation to ensure the entered values are valid numbers and that the operator used is one of the allowed operations.<br>
+![C__Users_Właściciel_source_repos_Calculator_Calculator_bin_Debug_net8 0_Calculator exe 2025-03-06 11-18-28](https://github.com/user-attachments/assets/5a60e1e8-f91e-4916-bfb4-f2c64366eeff)
+
 
 **Key Features**
 * <b>Input Validation:</b> Ensures that the user enters valid numbers and mathematical operators.
